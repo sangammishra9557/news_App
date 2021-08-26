@@ -1,1 +1,4 @@
-# news_App
+Previews - 
+
+![](assets/1.png)
+![](assets/2.png)
